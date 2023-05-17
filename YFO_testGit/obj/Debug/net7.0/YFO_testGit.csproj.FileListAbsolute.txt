@@ -1,0 +1,15 @@
+C:\Users\Yaroslav Follet\source\repos\YFO_testGit\YFO_testGit\bin\Debug\net7.0\YFO_testGit.exe
+C:\Users\Yaroslav Follet\source\repos\YFO_testGit\YFO_testGit\bin\Debug\net7.0\YFO_testGit.deps.json
+C:\Users\Yaroslav Follet\source\repos\YFO_testGit\YFO_testGit\bin\Debug\net7.0\YFO_testGit.runtimeconfig.json
+C:\Users\Yaroslav Follet\source\repos\YFO_testGit\YFO_testGit\bin\Debug\net7.0\YFO_testGit.dll
+C:\Users\Yaroslav Follet\source\repos\YFO_testGit\YFO_testGit\bin\Debug\net7.0\YFO_testGit.pdb
+C:\Users\Yaroslav Follet\source\repos\YFO_testGit\YFO_testGit\obj\Debug\net7.0\YFO_testGit.csproj.AssemblyReference.cache
+C:\Users\Yaroslav Follet\source\repos\YFO_testGit\YFO_testGit\obj\Debug\net7.0\YFO_testGit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yaroslav Follet\source\repos\YFO_testGit\YFO_testGit\obj\Debug\net7.0\YFO_testGit.AssemblyInfoInputs.cache
+C:\Users\Yaroslav Follet\source\repos\YFO_testGit\YFO_testGit\obj\Debug\net7.0\YFO_testGit.AssemblyInfo.cs
+C:\Users\Yaroslav Follet\source\repos\YFO_testGit\YFO_testGit\obj\Debug\net7.0\YFO_testGit.csproj.CoreCompileInputs.cache
+C:\Users\Yaroslav Follet\source\repos\YFO_testGit\YFO_testGit\obj\Debug\net7.0\YFO_testGit.dll
+C:\Users\Yaroslav Follet\source\repos\YFO_testGit\YFO_testGit\obj\Debug\net7.0\refint\YFO_testGit.dll
+C:\Users\Yaroslav Follet\source\repos\YFO_testGit\YFO_testGit\obj\Debug\net7.0\YFO_testGit.pdb
+C:\Users\Yaroslav Follet\source\repos\YFO_testGit\YFO_testGit\obj\Debug\net7.0\YFO_testGit.genruntimeconfig.cache
+C:\Users\Yaroslav Follet\source\repos\YFO_testGit\YFO_testGit\obj\Debug\net7.0\ref\YFO_testGit.dll
